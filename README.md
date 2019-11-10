@@ -14,13 +14,13 @@ Mesagge Encryption
 
 * python3 crypthackers.py
 
-# Encryption
+# Encrypting
 
-<img src=" ">
+<img src="https://github.com/AngelSecurityTeam/CryptHackers/blob/master/enc.png">
 
-# Decryption
+# Decrypting
 
-<img src=" ">
+<img src="https://github.com/AngelSecurityTeam/CryptHackers/blob/master/dec.png">
 
 <h3> Paypal donations: </h3>
 
