@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #https://github.com/AngelSecurityTeam
 import string,os
 from time import sleep
